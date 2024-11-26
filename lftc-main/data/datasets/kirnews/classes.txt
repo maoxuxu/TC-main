@@ -1,0 +1,12 @@
+politics
+sport
+economy
+health
+entertainment
+history
+technology
+culture
+religion
+environment
+education
+relationship
